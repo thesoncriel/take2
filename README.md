@@ -8,7 +8,9 @@
 
 ## 파일내용
 - manual : HTML 메뉴얼
-- ke2data.ccx : 미션팩 관련 데이터
-- ke2maps.ccx : 당시 케이브독 홈페이지에 제공된 각종 멀티용 맵 모음
-- ke2miss.ccx : 미션팩 데이터 모음
+- ke2data.ccx : 미션팩 추가 데이터 (AI 명령어 등)
+- ke2maps.ccx : 미션팩 데이터 모음. 파일 용량이 커서 ccx 파일을 분해하여 올려 둠
 - newunit.ccx : 당시 케이브독 홈페이지에 제공된 추가 유닛 모음
+
+## Licence
+MIT
