@@ -1,0 +1,15 @@
+[CORE 003 - Gate Down 1200]
+
+&YWe have little time.&
+After 20 Minuts, Galastic Gate is stop working, In that case we don't move to next planet.
+So You must moving Commander to there is It at East place Before that time.
+
+&RAttention:&
+You'll Very difficult Because ARM's resist.
+Nevertheless, Must moving him even if Sacrifice other Units.
+
+Tips:
+Laser Towers are attacking by movile missile launcher.
+If so Reduce Our Armies Damage to minimum.
+
+END

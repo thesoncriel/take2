@@ -1,0 +1,11 @@
+ARM01 - Defence Mission : Legend Of Vulcan
+
+Defend Our Base. Preserve the Vulcan there. Destroy All Krogoth Bots.
+
+&Y*SPECIAL PRIORITY*&
+The Air Defence Systems are very weaken at Our Base. Therefore, First, Build number of Defender. If not, We'll Lose..
+
+INFO FEED
+&GThe Enemy is sure to target the Vulcan.& In addition, The Radar is life at the Vulcan. So, Need to Guard Radar.
+
+END
